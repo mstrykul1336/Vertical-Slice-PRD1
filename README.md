@@ -13,7 +13,13 @@ Play:
    - Heal (only for medic): select a player to heal for one heart
    - Poison (only for baker): select a player to poison, where they will lose 1/4 heart over 3 nights duration.
 - Added in Old Man and made him always neutral. Added in win condition for if he is killed, he wins.
-- Added in the ability to be able
+- Added in the ability to be able use items in inventory (potion to heal, shield to shield for a night, and knife to attack someone.) (these are still buggy and need testing)
+- Added in new UI for half a heart, quarter heart, and three-quarters hearts. Added in new health counter to incorporate these.
+- assassin role was changed for just detective
+- new shop items have been added (shield and knife)
+- fixed properly giving gold to players every day
+- attack was replaced with abilities.
+- added in the mayor's basement area to spawn to.
 
 **To do**
 - Get abilities added and working, with basic UI during the night phase. Each role should get a different ability and some abilities should change based on the alignment. 
@@ -21,8 +27,7 @@ Play:
 - Fix time between winning and losing, adding in a UI screen or separate scene that plays a temporary UI to show what side and what players on that side won.
 - Fill shop with more items (I think I want to have 3 total):
       -  Potion of Life: Restore one heart (max 2 per player, single use)
-
-      - Shield: Wear for a night to prevent an attack (max 1 per player, single use, only use at night)
+  -  Shield: Wear for a night to prevent an attack (max 1 per player, single use, only use at night)
     - Cthulhu's knife: Deal an extra half heart damage with an attack (max 1, single use, only use at night)
 
 - Make it so you can actually use items in your inventory and lose the item after using it. 
