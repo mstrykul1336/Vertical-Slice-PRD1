@@ -21,7 +21,9 @@ To do:
 - Change assassin role name to just detective (can be a bad detective) 
 - Get neutral alignment in the game, just for if the old man is there. Also add in the win condition if the old man is killed or voted out, they win.
 - Add options to the main menu to include: "Controls", "Roles + Abilities" and possibly sound control. 
-- Additionally, I need to figure out why it randomly will set health wrong and sometimes set it right. Also including why sometimes it properly disconnects a player and sometimes it doesn't. 
+- Additionally, I need to figure out why it randomly will set health wrong and sometimes set it right. Also including why sometimes it properly disconnects a player and sometimes it doesn't.
+
+  
 Backlog:
 
 - For more variety, I want some of the roles to have special passives. Such as the medic is immune to bleeding or poison and the Clairvoyant is immune to dying at night (must be voted out).
