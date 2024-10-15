@@ -11,12 +11,12 @@ To do:
 - Fix attack, but since attack will be replaced with abilities, it's not a huge deal. 
 - Fix time between winning and losing, adding in a UI screen or separate scene that plays a temporary UI to show what side and what players on that side won.
 - Fill shop with more items (I think I want to have 3 total):
-- Potion of Life: Restore one heart (max 2 per player, single use)
+      -  Potion of Life: Restore one heart (max 2 per player, single use)
 
-- Shield: Wear for a night to prevent an attack (max 1 per player, single use, only use at night)
-- Cthulhu's knife: Deal an extra half heart damage with an attack (max 1, single use, only use at night)
+      - Shield: Wear for a night to prevent an attack (max 1 per player, single use, only use at night)
+    - Cthulhu's knife: Deal an extra half heart damage with an attack (max 1, single use, only use at night)
 
--Make it so you can actually use items in your inventory and lose the item after using it. 
+- Make it so you can actually use items in your inventory and lose the item after using it. 
 -Need UI for half a heart and 1/4 of a heart because abilities add this in. 
 - Change assassin role name to just detective (can be a bad detective) 
 - Get neutral alignment in the game, just for if the old man is there. Also add in the win condition if the old man is killed or voted out, they win.
