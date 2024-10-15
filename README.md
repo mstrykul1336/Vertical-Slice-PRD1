@@ -4,9 +4,18 @@ Full Project Here: https://github.com/mstrykul1336/Shadows-Over-Suburbia-Prototy
 Play:
 10/14:
 
-What was done: 
-- 
-To do:
+**What was done**
+- Health system has been fixed so all players are correctly assigned health based on their roles.
+- Added controls, how to play, and roles + abilities to title screen. These are all still works in progress for UI, but the function is there.
+- Fixed time between winning and losing, added fancy screen to show what players won along with what side with a cute picture. It'll send you to the main screen after 10 seconds.
+- 3 abilities are in the game: Mayor's basement, Heal, and Poison.
+   - Mayor's basement: (only for mayor) take a player to the basement (currently a weird looking jail) and disable all their night functions. Keep them there for a night.
+   - Heal (only for medic): select a player to heal for one heart
+   - Poison (only for baker): select a player to poison, where they will lose 1/4 heart over 3 nights duration.
+- Added in Old Man and made him always neutral. Added in win condition for if he is killed, he wins.
+- Added in the ability to be able
+
+**To do**
 - Get abilities added and working, with basic UI during the night phase. Each role should get a different ability and some abilities should change based on the alignment. 
 - Fix attack, but since attack will be replaced with abilities, it's not a huge deal. 
 - Fix time between winning and losing, adding in a UI screen or separate scene that plays a temporary UI to show what side and what players on that side won.
