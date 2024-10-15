@@ -1,7 +1,7 @@
 # Vertical-Slice-PRD1
 Vertical Slice PRD1 of Shadows Over Suburbia. 
 Full Project Here: https://github.com/mstrykul1336/Shadows-Over-Suburbia-Prototype-
-Play:
+Play: https://mstrykul1336.github.io/Vertical-Slice-PRD1/****
 10/14:
 
 **What was done**
